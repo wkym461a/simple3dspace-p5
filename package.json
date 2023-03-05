@@ -1,0 +1,20 @@
+{
+  "name": "simple3dspace-p5ts",
+  "author": "wkym461a",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/p5": "^1.5.0",
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "p5": "^1.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-p5-wrapper": "^4.1.0",
+    "tslib": "^2.5.0",
+    "typescript": "^4.9.5"
+  },
+  "devDependencies": {}
+}
